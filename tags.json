@@ -2,13 +2,13 @@
   "nightly": {
     "description": "Unstable",
     "hide": false,
-    "last_updated": "2024-02-15T08:13:03.000Z",
-    "last_updated_url": "https://github.com/hotio/stash/actions/runs/7912737695",
+    "last_updated": "2024-02-15T08:52:34.000Z",
+    "last_updated_url": "https://github.com/hotio/stash/actions/runs/7913195232",
     "latest": false,
     "tags": [
       "nightly",
       "nightly-15aac68a1487d98b1328586bffef6408aa60a811",
-      "nightly-33ff2c0"
+      "nightly-a4e6462"
     ]
   },
   "release": {
