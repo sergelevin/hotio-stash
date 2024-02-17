@@ -14,13 +14,13 @@
   "release": {
     "description": "Releases",
     "hide": false,
-    "last_updated": "2024-02-17T17:47:21.000Z",
-    "last_updated_url": "https://github.com/hotio/stash/actions/runs/7943262787",
+    "last_updated": "2024-02-17T23:48:10.000Z",
+    "last_updated_url": "https://github.com/hotio/stash/actions/runs/7944985482",
     "latest": true,
     "tags": [
       "release",
       "release-0.24.3",
-      "release-815fe84"
+      "release-d41c28b"
     ]
   }
 }
